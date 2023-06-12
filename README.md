@@ -1,5 +1,5 @@
 # url-short
-Title: URL Shortener in Python
+**Title: URL Shortener in Python**
 
 **Description:**
 The URL Shortener project is an open-source Python application that provides a convenient way to shorten long URLs into shorter, more manageable links. This project utilizes Python's capabilities to generate short and unique identifiers for URLs, allowing users to easily share and track clicks on their shortened links.
